@@ -13,3 +13,4 @@ for i in range(100):
     t.setposition(x, y)
     temp_color = random.randint(0, len(colors)-1)
     t.dot(colors[temp_color])
+turtle.done()
