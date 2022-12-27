@@ -1,0 +1,2 @@
+1. Seperated turtle module programs from into .py files, as running them in a .ipynb file results in a kernel crash.
+2. Changed formatted print statements to use f-strings, to print out better and less error prone outputs.
